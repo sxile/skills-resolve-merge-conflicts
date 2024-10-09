@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+Jake Nybey: 2501234567
